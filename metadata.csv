@@ -1,0 +1,11 @@
+cord_uid,title,abstract,publish_time,journal,source_x
+abc123,COVID-19 and Vaccines,Study on vaccine effectiveness,2020-05-01,Nature,PMC
+def456,AI in COVID Research,Use of AI to detect COVID cases,2021-02-15,The Lancet,Elsevier
+ghi789,Impact of Lockdowns,Analysis of lockdown measures,2020-07-20,BMJ,PMC
+jkl012,COVID-19 Variants,Genomic analysis of SARS-CoV-2,2021-03-10,Science,Elsevier
+mno345,Mental Health and COVID,Effects of pandemic on mental health,2020-09-05,JAMA,Springer
+pqr678,Long COVID Symptoms,Study on post-COVID conditions,2021-06-22,Nature,PMC
+stu901,Children and COVID,Transmission among children,2019-12-10,Pediatrics,Springer
+vwx234,Vaccine Distribution,Logistics of global vaccine rollout,2021-01-18,The Lancet,Elsevier
+yz1234,Mask Effectiveness,Analysis of mask use worldwide,2020-04-07,BMJ,PMC
+zzz999,Healthcare Workers,Challenges faced by healthcare staff,2021-05-30,JAMA,Elsevier
