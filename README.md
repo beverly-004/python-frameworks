@@ -1,6 +1,11 @@
 # python-frameworks
 Frame works
+Documentation
+-Findings (sharp rise in papers in 2020, The Lancet among top journals).
 
+-Challenges (large dataset size, cleaning issues).
+
+-Learning (handling missing data, visualization, Streamlit basics).
 Assignment Overview
 
 This assignment will guide you through a basic analysis of the CORD-19 research dataset and creating a simple Streamlit application to display your findings. This simplified version focuses on fundamental data analysis skills appropriate for beginners.
