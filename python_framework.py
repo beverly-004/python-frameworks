@@ -119,3 +119,6 @@ st.subheader("Word Cloud of Titles")
 text = " ".join(filtered['title'].dropna().astype(str).tolist())
 wordcloud = WordCloud(width=800, height=400, background_color="white").generate(text)
 st.image(wordcloud.to_array())
+
+#  Local URL: http://localhost:8501
+#  Network URL: http://10.0.119.58:8501
